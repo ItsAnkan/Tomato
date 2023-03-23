@@ -1,0 +1,4 @@
+'20/13 Chandidas Avenue, B-Zone, Durgapur - 5',"['Choco Lava Cake', 'Margarita Pizza', 'Cheesy Jalapeno Pasta', 'Peppy Paneer']"
+'B1-200/13, Mamra, Durgapur - 10',"['Mexican Pizza', 'Choco Lava Cake', 'Peppy Paneer']"
+'2/40 JK Pal Lane, Benachity, Durgapur-13',"['Krispy Chicken Strips', 'Barbeque Chicken', 'Taco Indiana', 'Mexican Pizza']"
+'13th St, A-Zone, Durgapur - 5',"['Barbeque Chicken', 'Krispy Chicken Strips', 'Veg Extravaganza', 'Mexican Pizza', 'Double Cheese Sandwich']"

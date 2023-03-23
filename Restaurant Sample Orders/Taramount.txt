@@ -1,0 +1,3 @@
+'20/30, Nagarjun Extension, B-Zone, Durgapur - 205',"['Red Velvet Cake', 'Chocolate Chip Pastry', 'Chicken Patties', 'Paneer Patties']"
+'25/6, Bengal Ambuja Housing Complex, City Center, Durgapur - 16',"['Crossiant', 'Hotdog', 'Chocolate Chip Pastry']"
+'1D/8, Akbar Rd, A-Zone, Durgapur - 04',"['Red Velvet Cake', 'Black Forest Cake', 'Creamy Rose Cake', 'Mango Mania']"

@@ -1,0 +1,8 @@
+To run the project
+
+Start Sql Server
+Run createDB.py and sampleData.py
+
+Run main.py
+
+For more info, goto ./Information/Info.txt

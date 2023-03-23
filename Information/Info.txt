@@ -1,0 +1,77 @@
+﻿(File best viewed with font Consolas or Lucida Console)
+
+
+Files and Folders in project -
+./
+ ├───Information
+ │   ├───Info.txt (contains information about this project)
+ │   └───TableStruct.txt (contains information about the tables)
+ │
+ ├───Restaurant Sample Orders (Folder contaning sample orders for all the restaurants)
+ │   ├───McTonald.txt
+ │   ├───Pizza_Tut.txt
+ │   ├───StarTucks.txt
+ │   ├───Taji_Biryani.txt
+ │   ├───Taramount.txt
+ │   ├───TFC.txt
+ │   ├───Tominoes.txt
+ │   └───Tubway.txt
+ │
+ ├───Assets (Folder containing Images)
+ │   ├───background.png (The backgound for all the pages)
+ │   └───icon.png (Icon for the tkinter window)
+ │
+ ├───__pycache__ (Python Cache files (ignored))
+ │
+ ├───createDB.py (File used for creating the main sql tables)
+ ├───display.py (The module containing the GUI (Window Class))
+ ├───main.py (Main python file combining GUI and Sql)
+ ├───Read Me.txt (First Info file)
+ ├───sampleData.py (Contains the sample data)
+ └───sqlHandler.py (Module containing all the sql queries (SqlHandler Class))
+ 
+ 
+
+=============================================
+
+How to Run The Project -
+
+Before running, make sure the tables and database are created.
+Use the createDB.py file to create it automatically or refer to TableStruct.txt
+
+Start Sql Server
+Run main.py
+
+[Optional]
+sampleData.py can be used to load up demo data for orders.
+In case if name of tables (RestaurantTable and Pendings) have to be changed, please edit the literals RESTAURANT_DB and PENDING_DB in sqlHandler.py accordingly.
+
+=============================================
+
+RID and Password for the restaurants -
+
+┌──────────────┬────────┬─────────────────┐
+│ Name         │ RID    │ Password        │
+├──────────────┼────────┼─────────────────┤
+│ StarTucks    │ 123456 │ startucks2022   │
+│ TFC          │ 123457 │ tfc2022         │
+│ Pizza Tut    │ 123458 │ pizzatut2022    │
+│ McTonald     │ 123459 │ mctonald2022    │
+│ Taji Biryani │ 123460 │ tajibiryani2022 │
+│ Tubway       │ 123461 │ tubway2022      │
+│ Taramount    │ 123462 │ taramount2022   │
+│ Tominoes     │ 123463 │ tominoes2022    │
+└──────────────┴────────┴─────────────────┘
+
+=============================================
+Briefing :
+
+TableStruct.txt contains the general sturcture of the tables
+
+Restaurant Sample Orders contain the sample orders for all the tables, they can be used to input sample data incase of manual insertion, otherwise sampleData.py does the task automatically.
+
+display.py contains the window class while sqlHandler.py contains all the sql queries
+main.py connects them together.
+
+createDB.py is used to create the database
+sampleData.py is used to load up the sample data onto the created Database

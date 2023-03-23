@@ -1,0 +1,4 @@
+'40 D-3 , Einstein Road, B-Zone, Durgapur - 5',"['Chicken Wings', 'Chicken Bucket', 'Krushers', 'Twisters', 'French Fries']"
+'13 Golf Street, A-Zone, Durgapur-3',"['Hot Wings', 'French Fries', 'Krushers']"
+'5 Sector C, Bidhannagar, Durgapur - 16',"['Chicken Wings', 'Krushers', 'Popcorn chicken', 'Chicken Nuggets']"
+'46 B, 6th Street, Michael Faraday Road, Durgapur - 16',"['Chicken Bucket', 'Duo Bucket Meal']"

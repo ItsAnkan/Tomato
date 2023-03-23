@@ -1,0 +1,67 @@
+﻿(File best viewed with font Consolas or Lucida Console)
+
+
+Database - Tomato
+
+=============================================================================================
+RestaurantTable - Table containing the main information about the restaurants
+
+RID INT(6) PRIMARY KEY,
+Name VARCHAR(20),
+Password VARCHAR(30),
+Items VARCHAR(500),
+State VARCHAR(5)
+
+┌──────────┬──────────────┬──────┬─────┬─────────┬───────┐
+│ Field    │ Type         │ Null │ Key │ Default │ Extra │
+├──────────┼──────────────┼──────┼─────┼─────────┼───────┤
+│ RID      │ int(6)       │ NO   │ PRI │ NULL    │       │
+│ Name     │ varchar(20)  │ YES  │     │ NULL    │       │
+│ Password │ varchar(30)  │ YES  │     │ NULL    │       │
+│ Items    │ varchar(500) │ YES  │     │ NULL    │       │
+│ State    │ varchar(5)   │ YES  │     │ NULL    │       │
+└──────────┴──────────────┴──────┴─────┴─────────┴───────┘
+Items = '{"item1":"price1","item2":"price2",...}'
+Ex - 
+┌────────┬───────────┬───────────────┬─────────────────────────────────┬───────┐
+│ RID    │ Name      │ Password      │ Items                           │ State │
+├────────┼───────────┼───────────────┼─────────────────────────────────┼───────┤
+│ 123456 │ StarTucks │ startucks2022 │ {"Cappuccino":"215",            │ Open  │
+│        │           │               │ "Latte":"125",                  │       │
+│        │           │               │ "Americano":"240",              │       │
+│        │           │               │ "Mocha":"959",                  │       │
+│        │           │               │ "Dragon Fruit refresher":"500", │       │
+│        │           │               │ "Frappuccino":"959",            │       │
+│        │           │               │ "Black Tea":"150",              │       │
+│        │           │               │ "Java Chip":"299",              │       │
+│        │           │               │ "Parfait":"455",                │       │
+│        │           │               │ "Hot chocolate":"190"}          │       │
+└────────┴───────────┴───────────────┴─────────────────────────────────┴───────┘
+
+=============================================================================================
+
+Pendings - Table Containing the pending orders for all the tables
+
+RID INT(6),
+Address varchar(75),
+Items varchar(500)
+
+┌─────────┬──────────────┬──────┬─────┬─────────┬───────┐
+│ Field   │ Type         │ Null │ Key │ Default │ Extra │
+├─────────┼──────────────┼──────┼─────┼─────────┼───────┤
+│ RID     │ int(6)       │ YES  │     │ NULL    │       │
+│ Address │ varchar(75)  │ YES  │     │ NULL    │       │
+│ Items   │ varchar(250) │ YES  │     │ NULL    │       │
+└─────────┴──────────────┴──────┴─────┴─────────┴───────┘
+Address = "full address here"
+Items = '["item1","item2","item3",...]'
+Ex - 
+┌────────┬─────────────────────────────┬─────────────────┐
+│ RID    │ Address                     │ Items           │
+├────────┼─────────────────────────────┼─────────────────┤
+│ 123456 │ H45, Vikram Sarani, Asansol │ ['Frappuccino', │
+│        │                             │ 'Mocha',        │
+│        │                             │ 'Americano',    │
+│        │                             │ 'Latte',        │
+│        │                             │ 'Cappuccino']   │
+└────────┴─────────────────────────────┴─────────────────┘

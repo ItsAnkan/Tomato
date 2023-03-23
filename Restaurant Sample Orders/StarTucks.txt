@@ -1,0 +1,5 @@
+'64 Ed. Street, A-Zone, Durgapur-4',"['Black Tea', 'Latte', 'Americano', 'Hot chocolate']"
+'20F , Apsara Building Complex, City Center, Durgapur -16',"['Mocha', 'Black Tea', 'Java Chip', 'Latte']"
+'H45, Vikram Sarani, Asansol',"['Frappuccino', 'Mocha', 'Americano', 'Latte', 'Cappuccino']"
+'10 ABC Colony, C-Zone, Durgapur-7',"['Mocha', 'Frappuccino', 'Hot chocolate']"
+'29 D-Block, Sun Apartments, Bidhannagar, Durgapur-15',"['Cappuccino', 'Hot chocolate', 'Latte', 'Americano', 'Java Chip']"

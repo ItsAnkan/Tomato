@@ -1,0 +1,6 @@
+'11/15 Nehru Street, A-Zone, Durgapur-4',"['Happy Meal', 'Maharaja McChicken', 'Mc Aloo Tikki', 'Mc Flurry', 'Soft serve ', 'Chicken Mcgrill']"
+'2/40 JK Pal Lane, Benachity, Durgapur-13',"['Chicken Mcgrill', 'Happy Meal', 'Cheese Burger', 'Soft serve ', 'McSpicy paneer']"
+'7/5 Sukumar Roy Path, C-Zone, Durgapur-9',"['Mc Flurry', 'Soft serve ', 'Cheese Burger']"
+'15/4 Kashinath Road, B-Zone, Durgapur - 6',"['Happy Meal', 'Maharaja McChicken', 'Masala Grill Veg', 'Mc Flurry', 'Soft serve ', 'McMuffin']"
+'4/5 Dayanad Road, A-Zone, Durgapur-4',"['Maharaja McChicken']"
+'43, Mahalaxmi Park Street, Fuljhore, Durgapur - 6',"['Happy Meal', 'Soft serve ', 'McMuffin']"

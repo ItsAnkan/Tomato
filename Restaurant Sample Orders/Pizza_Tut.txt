@@ -1,0 +1,5 @@
+'64 Ed. Street, A-Zone, Durgapur-4',"['Chicken Exotica', 'Spiced Meat Balls', 'Double cheese pizza']"
+'13/40 Chaffe Street, C-Zone, Durgapur - 6',"['Prawn Grande Pizza', 'Paneer Supreme Pizza', 'Garlic bread', 'Creamy Mushroom Pasta', 'Spiced Meat Balls', 'Veggie Lover Pizza']"
+'54 School Road, A-Zone, Durgapur-4',"['Magnum Truffle', 'Prawn Grande Pizza', 'Paneer Supreme Pizza', 'Veggie Lover Pizza']"
+'20/13 Chandidas Avenue, B-Zone, Durgapur - 5',"['Tandoori onion pizza', 'Double cheese pizza', 'Garlic bread', 'Prawn Grande Pizza']"
+'80 ,Sukanta Bithi, Asansol',"['Chicken Exotica', 'Paneer Supreme Pizza', 'Magnum Truffle']"

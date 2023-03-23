@@ -1,0 +1,3 @@
+'40 D-3 , Einstein Road, B-Zone, Durgapur - 5',"['Paneer Biryani', 'Veg Biryani']"
+'12, 5th Ave, Sepco Twp, Durgapur-5',"['Kolkata Biryani', 'Chicken Biryani']"
+'12/30, Tansen Road, B-Zone, Durgapur-2',"['Hydrabadi Biryani', 'Kolkata Biryani', 'Lucknowi Biryani']"
